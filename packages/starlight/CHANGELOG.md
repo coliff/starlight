@@ -1,5 +1,15 @@
 # @astrojs/starlight
 
+## 0.0.13
+
+### Patch Changes
+
+- [`8688778`](https://github.com/withastro/starlight/commit/86887786d158e4cdb9e4bd021b2232eb6dba284c) Thanks [@delucis](https://github.com/delucis)! - Fix small CSS compatibility issue
+
+- [`d8b9f32`](https://github.com/withastro/starlight/commit/d8b9f3260daaceed8a31eedcc44bd00733f96254) Thanks [@delucis](https://github.com/delucis)! - Fix false positive in sidebar autogeneration logic
+
+- [`116c4f5`](https://github.com/withastro/starlight/commit/116c4f5eb0ddf4dddbd10005bc72a7e6cb880a67) Thanks [@delucis](https://github.com/delucis)! - Fix minor dev layout bug in Search modal for RTL languages
+
 ## 0.0.12
 
 ### Patch Changes
